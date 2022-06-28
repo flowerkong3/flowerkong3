@@ -1,9 +1,12 @@
 👋 Hi, I’m @min young <br>
+Nice to see you. Let me Introduce myself.
 
 <a href="https://flowerkong3.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-f48fb1?style=for-the-badge&logo=GitHub Sponsors&logoColor=white&link=https://flowerkong3.github.io/portfolio"/></a>
 <a href="mailto:flowerkong3@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:flowerkong3@gmail.com"/></a>
 <a href="https://velog.io/@mindeng"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@mindeng"/></a>
 <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com"/></a>
+
+Projects
 
 <a href="https://flowerkong3.github.io/play_yourname"><img src="https://img.shields.io/badge/project1-009624?style=for-the-badge&logo=ProductHunt&logoColor=white&link=https://flowerkong3.github.io/play_yourname"/></a>
 <a href="https://flowerkong3.github.io/play_yourname"><img src="https://img.shields.io/badge/project2-00c853?style=for-the-badge&logo=ProductHunt&logoColor=white&link=https://flowerkong3.github.io/play_yourname"/></a>
@@ -13,3 +16,6 @@
 ⭐ Project1 : https://flowerkong3.github.io/work_inni/ <br>
 ⭐ Project2 : https://flowerkong3.github.io/play_yourname/ <br>
 ⭐ Project3 : https://flowerkong3.github.io/play_ooc/
+
+Skills
+
