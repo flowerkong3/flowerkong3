@@ -7,14 +7,10 @@
 <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com"/></a>
 
 
-Hello, After working as an editorial designer for 6 years, I changed my job to a web publisher with a new dream. <br>
-As I started late, I think of it as a career for the rest of my life, and I am constantly learning and working hard. <br>
-Coding is difficult but fun. I want to have fun working together and grow with the company. <br>
-I am good at adapting anywhere, and since I am the type to finish once I start, <br>
-any project produces a complete result. <br>
-I want to do my job well and I am confident that I will do well!
+hello
+This is Minyoung Kim, a 2nd year web publisher.
 
-😈 Portfolio : https://flowerkong3.github.io/portfolio/ <br><br>
+👀 Portfolio : https://flowerkong3.github.io/portfolio/ <br><br>
 
 <h2>Projects</h2>
 
@@ -22,9 +18,9 @@ I want to do my job well and I am confident that I will do well!
 <a href="https://flowerkong3.github.io/play_yourname"><img src="https://img.shields.io/badge/project2-00c853?style=for-the-badge&logo=ProductHunt&logoColor=white&link=https://flowerkong3.github.io/play_yourname"/></a>
 <a href="https://flowerkong3.github.io/play_ooc"><img src="https://img.shields.io/badge/project3-5efc82?style=for-the-badge&logo=ProductHunt&logoColor=white&link=https://flowerkong3.github.io/play_ooc"/></a>
 
-⭐ Project1 : https://flowerkong3.github.io/work_inni/ <br>
-⭐ Project2 : https://flowerkong3.github.io/play_yourname/ <br>
-⭐ Project3 : https://flowerkong3.github.io/play_ooc/
+🌱 Project1 : https://flowerkong3.github.io/work_inni/ <br>
+🌱 Project2 : https://flowerkong3.github.io/play_yourname/ <br>
+🌱 Project3 : https://flowerkong3.github.io/play_ooc/
 
 <h2>Skills</h2>
 
