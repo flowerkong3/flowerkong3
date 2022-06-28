@@ -14,13 +14,13 @@ This is Minyoung Kim, a 2nd year web publisher.
 
 <h2>🍀 Projects</h2>
 
-<a href="https://flowerkong3.github.io/play_yourname"><img src="https://img.shields.io/badge/project1-009624?style=for-the-badge&logo=ProductHunt&logoColor=white&link=https://flowerkong3.github.io/play_yourname"/></a>
-<a href="https://flowerkong3.github.io/play_yourname"><img src="https://img.shields.io/badge/project2-00c853?style=for-the-badge&logo=ProductHunt&logoColor=white&link=https://flowerkong3.github.io/play_yourname"/></a>
-<a href="https://flowerkong3.github.io/play_ooc"><img src="https://img.shields.io/badge/project3-5efc82?style=for-the-badge&logo=ProductHunt&logoColor=white&link=https://flowerkong3.github.io/play_ooc"/></a>
+<a href="https://flowerkong3.github.io/yourname"><img src="https://img.shields.io/badge/project1-009624?style=for-the-badge&logo=ProductHunt&logoColor=white&link=https://flowerkong3.github.io/yourname"/></a>
+<a href="https://flowerkong3.github.io/yourname"><img src="https://img.shields.io/badge/project2-00c853?style=for-the-badge&logo=ProductHunt&logoColor=white&link=https://flowerkong3.github.io/yourname"/></a>
+<a href="https://flowerkong3.github.io/ooc"><img src="https://img.shields.io/badge/project3-5efc82?style=for-the-badge&logo=ProductHunt&logoColor=white&link=https://flowerkong3.github.io/ooc"/></a>
 
-🌱 Project1 : https://flowerkong3.github.io/work_inni/ <br>
-🌱 Project2 : https://flowerkong3.github.io/play_yourname/ <br>
-🌱 Project3 : https://flowerkong3.github.io/play_ooc/
+🌱 Project1 : https://flowerkong3.github.io/inni/ <br>
+🌱 Project2 : https://flowerkong3.github.io/yourname/ <br>
+🌱 Project3 : https://flowerkong3.github.io/ooc/
 
 <h2>💪 Skills</h2>
 
