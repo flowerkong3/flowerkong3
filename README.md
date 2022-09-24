@@ -12,8 +12,9 @@
 
 hello
 This is Minyoung Kim, a 2nd year web publisher.
-
+<!--
 👀 Portfolio : https://flowerkong3.github.io/portfolio/ <br><br>
+-->
 
 <h2>🍀 Projects</h2>
 
