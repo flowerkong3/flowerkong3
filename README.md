@@ -23,14 +23,10 @@ This is Minyoung Kim, a 2nd year web publisher.
 <a href="https://flowerkong3.github.io/yourname"><img src="https://img.shields.io/badge/project2-00c853?style=for-the-badge&logo=ProductHunt&logoColor=white&link=https://flowerkong3.github.io/yourname"/></a>
 <a href="https://flowerkong3.github.io/ooc"><img src="https://img.shields.io/badge/project3-5efc82?style=for-the-badge&logo=ProductHunt&logoColor=white&link=https://flowerkong3.github.io/ooc"/></a>
 -->
-<h3>Experiences</h3>
-🌱 Project2 : https://www.innisfree.com/id/en <br>
 
-<h3>Freelancer</h3>
-🌱 Project0 : https://metakhira.io/ <br>
-🌱 Project1 : https://ticker.capital/ <br>
-
-<h3>Play</h3>
+🌱 Project0 : https://www.innisfree.com/id/en <br>
+🌱 Project1 : https://metakhira.io/ <br>
+🌱 Project2 : https://ticker.capital/ <br>
 🌱 Project3 : https://flowerkong3.github.io/2024/portfolio/ <br>
 🌱 Project4 : https://flowerkong3.github.io/wirrrro/ <br>
 🌱 Project5 : https://flowerkong3.github.io/yourname/ <br>
